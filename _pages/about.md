@@ -36,25 +36,17 @@ redirect_from:
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='images/ussfcnet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 [Ultralightweight Spatial–Spectral Feature Cooperation Network for Change Detection in Remote Sensing Images](https://ieeexplore.ieee.org/iel7/36/4358825/10081023.pdf)
 
 Tao Lei, **Xinzhe Geng**, Hailong Ning, Zhiyong Lv, Maoguo Gong, Yaochu Jin, Asoke K Nandi
 
 - 简介[**Code**](https://github.com/SUST-reynole/USSFC-Net)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2022</div><img src='images/ussfcnet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 [Global Evolution Neural Network for Segmentation of Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9746587)
 
  **Xinzhe Geng**, Tao Lei, Qi Chen, Jian Su, Xi He, Qi Wang, Asoke K Nandi
 
 - 简介
-
-
 
 # 🎖 Honors and Awards
 
