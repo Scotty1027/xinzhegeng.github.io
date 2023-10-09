@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinzhe Geng's personal homepage"
-description              : "Xinzhe Geng's personal homepage."
+description              :
 repository               : "Scotty1027/xinzhegeng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinzhe Geng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Shaanxi University of Science & Technology"
+  bio              : "M.S. degree, Shaanxi University of Science & Technology"
   location         : "Xian, China"
   employer         :
   pubmed           : 
