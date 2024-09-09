@@ -20,7 +20,7 @@ redirect_from:
 I am currently an AI algorithm engineer at Tudou Data Technology, mainly engaged in research on deep learning, computer
 vision, remote sensing image processing, etc. Before that, I studied for a master's degree at the School of Electronic
 Information and Artificial Intelligence of Shaanxi University of Science and Technology, under the supervision of Prof.
-[Lei Tao](https://sust-reynole.github.io/#/).
+[Tao Lei](https://sust-reynole.github.io/#/).
 
 # 💻Research Interests
 
