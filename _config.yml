@@ -8,7 +8,7 @@
 # Site Settings
 title                    :
 description              :
-repository               : "Scotty1027/xinzhegeng.github.io"
+repository               : "XinzheGeng/xinzhegeng.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Scotty1027" # e.g., "github username"
+  github           : "XinzheGeng" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
