@@ -37,6 +37,7 @@ Information and Artificial Intelligence of Shaanxi University of Science and Tec
 - *2023.05*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS.
 - *2022.01*: &nbsp;🎉🎉 One paper is accepted by ICASSP 2022.
 
+<span class='anchor' id='-selected-publications'></span>
 # 📝 Selected Publications
 
 [Ultralightweight Spatial–Spectral Feature Cooperation Network for Change Detection in Remote Sensing Images](https://ieeexplore.ieee.org/iel7/36/4358825/10081023.pdf)
