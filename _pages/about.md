@@ -27,7 +27,7 @@ redirect_from:
 
 - Computer Vision: Semantic Segmentation
 
-- Deep Learning: Compact Model, Model Compression
+- Deep Learning: Compact Model
 
 # 🔥 News
 
