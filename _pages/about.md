@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-个人简介
-
-谷歌学术主页<a href='https://scholar.google.com/citations?user=XpyYJvcAAAAJ'>
+I am currently an AI algorithm engineer at Tudou Data Technology, mainly engaged in research on deep learning, computer
+vision, remote sensing image processing, etc. Previously, I studied for a master's degree at the School of Electronic
+Information and Artificial Intelligence of Shaanxi University of Science and Technology, under the supervision of Prof.
+[Lei Tao](https://sust-reynole.github.io/#/).
 
 # 💻Research Interests
 
@@ -27,12 +28,14 @@ redirect_from:
 
 - Computer Vision: Semantic Segmentation
 
-- Deep Learning: Compact Model 
+- Deep Learning: Compact Model
 
 # 🔥 News
 
-- *2023.05*: &nbsp;🎉🎉 1
-- *2022.01*: &nbsp;🎉🎉 2
+- *2024.05*: &nbsp;🎉🎉 I am invited as a reviewer for IEEE TNNLS.
+- *2024.04*: &nbsp;🎉🎉 One paper was selected as ESI Highly Cited Paper.
+- *2023.05*: &nbsp;🎉🎉 One paper is accepted by IEEE TGRS.
+- *2022.01*: &nbsp;🎉🎉 One paper is accepted by ICASSP 2022.
 
 # 📝 Selected Publications
 
@@ -40,17 +43,23 @@ redirect_from:
 
 Tao Lei, **Xinzhe Geng**, Hailong Ning, Zhiyong Lv, Maoguo Gong, Yaochu Jin, Asoke K Nandi
 
-- 简介[**Code**](https://github.com/SUST-reynole/USSFC-Net)
+- Highlight: **ESI Highly Cited Paper**, Change Detection, Ultralightweight Network, Multiscale Decoupled Convolution,
+  Spatial-Spectral Feature Cooperation [**Code**](https://github.com/SUST-reynole/USSFC-Net)
 
 [Global Evolution Neural Network for Segmentation of Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9746587)
 
- **Xinzhe Geng**, Tao Lei, Qi Chen, Jian Su, Xi He, Qi Wang, Asoke K Nandi
+**Xinzhe Geng**, Tao Lei, Qi Chen, Jian Su, Xi He, Qi Wang, Asoke K Nandi
 
-- 简介
+- Highlight: Semantic Segmentation, Knowledge Enhancement, Dict-Attention
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 
-- *2023.06*  
-- *2023.06* 
+- *2024*: ESI Highly Cited Paper
+- *2023*: Outstanding Graduate Student, Shaanxi University of Science and Technology | 优秀毕业生
+- *2023*: Outstanding graduation thesis, Shaanxi University of Science and Technology | 优秀毕业论文 
+- *2022*: Postgraduate Scholarship | 研究生学业奖学金
+- *2021*: Postgraduate Scholarship | 研究生学业奖学金
 
+# ✍️ Reviewer
 
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
