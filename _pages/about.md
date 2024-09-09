@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently an AI algorithm engineer at Tudou Data Technology, mainly engaged in research on deep learning, computer
-vision, remote sensing image processing, etc. Previously, I studied for a master's degree at the School of Electronic
+vision, remote sensing image processing, etc. Before that, I studied for a master's degree at the School of Electronic
 Information and Artificial Intelligence of Shaanxi University of Science and Technology, under the supervision of Prof.
 [Lei Tao](https://sust-reynole.github.io/#/).
 
@@ -55,11 +55,12 @@ Tao Lei, **Xinzhe Geng**, Hailong Ning, Zhiyong Lv, Maoguo Gong, Yaochu Jin, Aso
 # 🏅 Honors and Awards
 
 - *2024*: ESI Highly Cited Paper
-- *2023*: Outstanding Graduate Student, Shaanxi University of Science and Technology | 优秀毕业生
-- *2023*: Outstanding graduation thesis, Shaanxi University of Science and Technology | 优秀毕业论文 
-- *2022*: Postgraduate Scholarship | 研究生学业奖学金
-- *2021*: Postgraduate Scholarship | 研究生学业奖学金
+- *2023*: Outstanding Graduate Student, Shaanxi University of Science and Technology (优秀毕业生)
+- *2023*: Outstanding graduation thesis, Shaanxi University of Science and Technology (优秀毕业论文)
+- *2022*: Postgraduate Scholarship (研究生学业奖学金)
+- *2021*: Postgraduate Scholarship (研究生学业奖学金)
 
+<span class='anchor' id='-reviewer'></span>
 # ✍️ Reviewer
 
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
